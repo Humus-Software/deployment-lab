@@ -1,0 +1,29 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".pytest_cache": true,
+        "**/__pycache__": true,
+        "**/.classpath": true,
+        "**/.dart_tool": true,
+        "**/.factorypath": true,
+        "**/.gitattributes": true,
+        "**/.idea": true,
+        "**/.metadata": true,
+        "**/.next": true,
+        "**/.packages": true,
+        "**/.project": true,
+        "**/.pytest_cache": true,
+        "**/.settings": true,
+        "**/.vscode": true,
+        "**/blob_storage": true,
+        "**/Cargo.lock": true,
+        "**/package-lock.json": true,
+        "**/pubspec.lock": true,
+        "**/node_modules": true
+    }
+}
